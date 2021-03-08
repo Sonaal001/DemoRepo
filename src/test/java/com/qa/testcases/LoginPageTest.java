@@ -8,5 +8,9 @@ public class LoginPageTest {
 	public void TestcaseLogin() {
 		System.out.println("Login Page Test Cases");
 	}
+	
+	public void testcaselogin2() {
+		System.out.println("Test Case 2");
+	}
 
 }
